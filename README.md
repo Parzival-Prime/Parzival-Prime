@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parzival-Prime
-- 👀 I’m interested in Machine Learning and Automatation
+- 👀 I’m interested in Machine Learning and Automation
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on MLOps Projects
 - 📫 How to reach me email: dvnhrajput@gmail.com
