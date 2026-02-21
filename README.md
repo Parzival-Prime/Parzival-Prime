@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parzival-Prime
-- 👀 I’m interested in Machine Learning and Automation
-- 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on MLOps Projects
+- 👀 I’m interested in Automation and developing software actually useful
+- 🌱 I’m currently learning RAG and Agentic AI
+- 💞️ I’m looking to collaborate on cool Projects
 - 📫 How to reach me email: dvnhrajput@gmail.com
 - 😄 Pronouns: he/him
 
